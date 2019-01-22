@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 var packageJSON = require('require-module')('./package.json');
 var deploy = require('./lib/deploy');
