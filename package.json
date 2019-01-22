@@ -4,7 +4,7 @@
     "author": "2youyou2",
     "license": "MIT",
     "bin": "index.js",
-    "devDependencies": {
+    "dependencies": {
         "bluebird": "^3.5.3",
         "child-process-promise": "^2.2.1",
         "hexo-fs": "^1.0.2",
