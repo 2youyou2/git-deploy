@@ -1,0 +1,15 @@
+{
+    "name": "git-deploy",
+    "version": "0.0.1",
+    "author": "2youyou2",
+    "license": "MIT",
+    "bin": "index.js",
+    "devDependencies": {
+        "bluebird": "^3.5.3",
+        "child-process-promise": "^2.2.1",
+        "hexo-fs": "^1.0.2",
+        "moment": "^2.24.0",
+        "swig-templates": "^2.0.3",
+        "require-module": "^0.1.0"
+    }
+}
